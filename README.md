@@ -13,11 +13,11 @@ the requirement of derivatives estimation in identification procedure without an
 new parameters to be identified. It acts as a filtering noise and is independent from
 initial conditions. To increase the accuracy of estimation, we join the sparse regression
 with a bootstrapping resampling technique for real data with high level of noise. We use
-Taylor expansion to parameterize the time delays in the system equations. A nonlinear
-Dung oscillator is simulated to motivate the development of the proposed estimation
+Taylor expansion to parameterize the time delays in the system equations. A nonlinear 
+oscillator is simulated to motivate the development of the proposed estimation
 technique. Experimental responses of time histories of a nonlinear rotary 
 exible joint are
-presented to validate the eciency and accuracy of the proposed method. The studies
+presented to validate the efficiency and accuracy of the proposed method. The studies
 reported herein indicate that the proposed method is quite promising for high-dimensional
 dynamical nonlinear systems with multiple inputs and multiple outputs.
 
